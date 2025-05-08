@@ -145,7 +145,39 @@ p{
 
 
 
+.index{
 
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.index_space{
+
+    margin-left: 2%;
+
+}
+
+.button_index{
+
+    width: 100%;
+    text-align: center;
+
+}
+
+.button_index > a{
+
+    border: 1px solid black;
+    padding: 1%;
+    border-radius: 7px;
+
+}
+
+.button_index > a:hover{
+
+    background-color: black;
+    color: aliceblue;
+
+}
 
 main{
 
